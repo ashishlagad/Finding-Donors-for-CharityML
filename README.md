@@ -30,9 +30,9 @@ You will also need to have software installed to run and execute an
 [iPython Notebook](http://ipython.org/notebook.html)
 
 
+## Code
 
-
-
+The main code for this project is located in the `finding_donors.ipynb` notebook file. Additional supporting code for visualizing the necessary graphs can be found in `visuals.py`.
 
 
 ## Data
